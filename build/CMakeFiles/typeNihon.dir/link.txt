@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/typeNihon.dir/src/main.cpp.o -o typeNihon 

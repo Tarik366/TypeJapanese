@@ -1,0 +1,3 @@
+/mnt/c/Users/Tarik/TypeNihon/cmake-build-debug/CMakeFiles/tinihon.dir
+/mnt/c/Users/Tarik/TypeNihon/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Tarik/TypeNihon/cmake-build-debug/CMakeFiles/rebuild_cache.dir
